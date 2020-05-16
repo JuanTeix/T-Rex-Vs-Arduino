@@ -1,5 +1,5 @@
 # T-Rex-Vs-Arduino
-Arduino vs T-Rex of google when there is no internet
+T-Rex vs Arduino of google when there is no internet
 
 # Tools
 
@@ -8,4 +8,3 @@ Arduino vs T-Rex of google when there is no internet
   - Lib Johnny-Five: [http://johnny-five.io/]
   
 
-  
